@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://www.bhmpics.com/downloads/logo-ford-Wallpapers/12.3466674.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.odd{
+    
+    border-radius: 10%;
+    margin-top: 20%;
+    margin-left:70%;
+}
+.a{
+    
+    background-color: black;
+    color: aliceblue;
+    margin-top:10px ;
+    font-size:15px;
+}

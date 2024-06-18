@@ -1,0 +1,91 @@
+#heading{
+    color: goldenrod;
+    text-align: center;;
+    font-style:inherit;
+    font-size:400%;
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+.a{ 
+    color: red;
+    font-size: 300%;
+    font-weight:bold;
+    text-align: center;
+    position: sticky;
+}
+
+.td{
+    color: aliceblue;
+    width: fit-content;
+    text-align:justify ;
+}
+#heading2{
+    background-color: aqua;
+    color: black;
+}
+
+.btn-login{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn-login:hover{
+    background-color: rgb(14, 14, 120);
+}
+
+.btn-login:active{
+    background-color: rgb(179, 5, 5);
+    border: 1px solid black;
+}
+
+.odd{
+    background-color: rgb(255, 255, 241);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    /* padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px; */
+    margin: 30px;
+    border-radius: 10px;
+
+    /* margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px; */
+}
+
+body{
+    background-color:rgba(255, 255, 255, 0.974);
+    
+}
+
+.box1{
+    height: 180px;
+    font-size: 200%;
+    font-family:cursive;
+    font-style: oblique;
+    position: absolute;
+    left: 45%;
+    top: 0px;
+    
+
+    
+}
+.box2{
+    position: sticky;
+    top: 20px;
+    left: 10px;
+    width: 80px;
+    height: 50px;
+    background-color: color(from color srgb r g b);
+}
